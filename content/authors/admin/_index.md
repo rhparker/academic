@@ -1,37 +1,31 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ross Parker
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: RTG postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Southern Methodist University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a postdoctoral fellow in the department of mathematics at Southern Methodist University.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Dynamical systems
+- Nonlinear waves
+- Network theory
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in applied mathematics
+    institution: Brown University
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +37,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/rprkr
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rhparker
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +63,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an RTG postdoctoral fellow in the [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at Southern Methodist University. I received my Ph.D. in applied mathematics from [Brown University](http://www.brown.edu/academics/applied-mathematics/), where I worked with [Bj&ouml;rn Sandstede](http://bjornsandstede.com/) on the stability of nonlinear waves. In particular, I studied the existence and stability of multi-pulse solutions in continuous and discrete Hamiltonian systems. I also collaborate with [Alejandro Aceves](https://people.smu.edu/31106378/prof-alejandro-aceves/), [Todd Kapitula](http://www.calvin.edu/~tmk5/) and [Panos Kevrekidis](http://people.math.umass.edu/~kevrekid/).  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Although I have been fascinated by mathematics as long as I can remember, it took me until my mid 30s to embrace my inner math nerd. Beforehand, I worked many different jobs, including bicycle repairperson, computer network technician, church organist, math and science tutor, emergency room technician, and internal medicine intern.
+
+In my spare time, I enjoy [Scottish country dancing](http://www.rscds.org/), [Sacred Harp singing](https://fasola.org/), playing piano and violin, origami, and ultralight backpacking.

@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Projects"
+title = "Research"
 subtitle = ""
 
 [content]
@@ -74,4 +74,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+## Stability of solitary waves 
+
+Solitary waves are localized disturbances in a medium that maintain their shape as they propagate at a constant velocity. I study the existence and stability of multi-pulse solitary waves in Hamiltonian systems such as the fifth-order Korteweg-de Vries equation (KdV5) and the discrete nonlinear Schrodinger equation (DNLS). Multi-pulses are disturbances which resemble multiple, well separated copies of a single solitary wave. 
+
+{{< figure src="img/eigpatterns.png" caption="Double pulses in KdV5 (left) and DNLS (center). Corresponding eigenvalue pattern on right." >}}
+
+I am interested in how the geometry of a multi-pulse solution determines its spectral stability. My [research statement](files/researchstatement.pdf) summarizes the work I have done on multi-pulses.
 
