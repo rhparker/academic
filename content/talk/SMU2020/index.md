@@ -2,12 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Multi-pulse solitary waves in Hamiltonian systems"
-event: SMU virtual math colloquium
-location: Dallas, TX
+event: 
+location: SMU math colloquium
 address: 
   street: 
   city: 
-  region: 
+  region: Dallas, TX (virtual)
   postcode:
   country:
 summary:

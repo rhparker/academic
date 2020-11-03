@@ -2,13 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Spectral stability of multi-pulses via the Krein matrix"
-event: IMACS Conference on Nonlinear Evolution Equations and Wave Phenomena
+event: 
 event_url: "http://waves2019.uga.edu/index.shtml"
-location: Athens, GA
+location: IMACS Conference on Nonlinear Evolution Equations and Wave Phenomena
 address: 
   street: 
   city: 
-  region: 
+  region: Athens, GA
   postcode:
   country:
 summary:

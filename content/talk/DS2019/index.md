@@ -2,13 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Spectral stability of periodic multi-pulses in the 5th order KdV equation"
-event: SIAM Conference on Applications of Dynamical Systems (DS19)
+event:
 event_url: "https://meetings.siam.org/sess/dsp_talk.cfm?p=99206"
-location: Snowbird, UT
+location: SIAM Conference on Applications of Dynamical Systems (DS19)
 address:
   street:
   city: 
-  region:
+  region: Snowbird, UT
   postcode:
   country:
 summary: 

@@ -2,15 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Instability bubbles for multi-pulse solutions to Hamiltonian systems on a periodic domain"
-event: Annual Meeting of the SIAM Texas-Louisiana Section
-location: Texas A&M University (virtually)
-address: 
-  street: 
+event:
+event_url: 
+location: Annual Meeting of the SIAM Texas Louisiana Section
+address:
+  street:
   city: 
-  region: 
+  region: (virtual)
   postcode:
   country:
-summary:
+summary: 
 abstract: In this talk, I will look at multi-pulse solitary wave solutions to Hamiltonian systems which are translation invariant and reversible. The fifth order Korteweg-de Vries equation is a prototypical example. In particular, I will look at the spectral stability of these solutions on a periodic domain. Using Lin's method, an implementation of the Lyapunov-Schmidt reduction, the spectral problem for multi-pulses on a periodic domain can be reduced to computing the determinant of a block matrix. This matrix encodes both eigenvalues resulting from interactions between neighboring pulses (interaction eigenvalues) and eigenvalues associated with the background state. Using this matrix, we prove that brief instability bubbles form when interaction eigenvalues and background state eigenvalues collide on the imaginary axis as the periodic domain size is altered. These analytical results are in good agreement with numerical computations.
 
 # Talk start and end times.

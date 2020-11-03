@@ -2,13 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Stability of double pulse solutions to the 5th order KdV equation"
-event: Applied Mathematics Colloquium, UMass Amherst
+event: 
 event_url:
-location: Amherst, MA
+location: UMass Amherst applied mathematics colloquium
 address:
   street:
   city:
-  region:
+  region: Amherst, MA
   postcode:
   country:
 summary:
