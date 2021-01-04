@@ -32,9 +32,9 @@ subtitle = ""
 
 ### Brown University
 
-* **APMA 1360** : Applied Dynamical Systems, Spring 2020 ([syllabus](files/APMA1360syllabus.pdf), [course evaluations](files/evalsspring2020.pdf))
+* **APMA 1360** : Applied Dynamical Systems, Spring 2020 ([syllabus](files/APMA1360syllabus.pdf))
 * **Intensive review of analysis for incoming graduate students**, Summer 2019
-* **[APMA 1650](http://apma1650.rprkr.net) : Statistical Inference I**, Summer 2016 ([syllabus](files/APMA1650syllabus.pdf), [course evaluations](files/evalssummer2016.pdf))
+* **[APMA 1650](http://apma1650.rprkr.net) : Statistical Inference I**, Summer 2016 ([syllabus](files/APMA1650syllabus.pdf))
 
 <!-- ### Teaching assistant
 
