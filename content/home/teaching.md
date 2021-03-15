@@ -27,8 +27,8 @@ subtitle = ""
 
 ### Southern Methodist University
 
-* **Math 3304** : Introduction to Linear Algebra, Spring 2021 
-* **Math 1337** : Calculus I, Fall 2020 ([syllabus](files/Math1337syllabus.pdf))
+* **Math 3304** : Introduction to Linear Algebra, Spring 2021 ([syllabus](files/Math3304syllabusSpring2021.pdf))
+* **Math 1337** : Calculus I, Fall 2020 ([syllabus](files/Math1337syllabusFall2020.pdf))
 
 ### Brown University
 
