@@ -19,6 +19,7 @@ bio: I am a postdoctoral fellow in the department of mathematics at Southern Met
 interests:
 - Dynamical systems
 - Nonlinear waves
+- Numerical parameter continuation
 - Network theory
 
 education:
