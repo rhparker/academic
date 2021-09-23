@@ -6,7 +6,7 @@ title: Ross Parker
 superuser: true
 
 # Role/position
-role: RTG postdoctoral fellow
+role: RTG postdoctoral fellow / visiting assistant professor
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral fellow in the department of mathematics at Southern Methodist University.
+bio: I am a postdoctoral fellow and visiting assistant professor in the department of mathematics at Southern Methodist University.
 
 interests:
 - Dynamical systems
@@ -33,15 +33,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+#   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=w3DU-R0AAAAJ
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rprkr
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/rhparker
@@ -64,7 +64,7 @@ user_groups:
 - Visitors
 ---
 
-I am an RTG postdoctoral fellow in the [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at Southern Methodist University. I received my Ph.D. in applied mathematics from [Brown University](http://www.brown.edu/academics/applied-mathematics/), where I worked with [Bj&ouml;rn Sandstede](http://bjornsandstede.com/) on the stability of nonlinear waves. In particular, I studied the existence and stability of multi-pulse solutions in continuous and discrete Hamiltonian systems. I also collaborate with [Alejandro Aceves](https://people.smu.edu/31106378/prof-alejandro-aceves/), [Todd Kapitula](http://www.calvin.edu/~tmk5/) and [Panos Kevrekidis](http://people.math.umass.edu/~kevrekid/).  
+I am an RTG postdoctoral fellow and visiting assistant professor in the [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at Southern Methodist University. I received my Ph.D. in applied mathematics from [Brown University](http://www.brown.edu/academics/applied-mathematics/), where I worked with [Bj&ouml;rn Sandstede](http://bjornsandstede.com/) on the stability of nonlinear waves. In particular, I studied the existence and stability of multi-pulse solutions in continuous and discrete Hamiltonian systems. I also collaborate with [Alejandro Aceves](https://people.smu.edu/31106378/prof-alejandro-aceves/), [Todd Kapitula](http://www.calvin.edu/~tmk5/) and [Panos Kevrekidis](http://people.math.umass.edu/~kevrekid/).  
 
 Although I have been fascinated by mathematics as long as I can remember, it took me until my mid 30s to embrace my inner math nerd. Beforehand, I worked many different jobs, including bicycle repairperson, computer network technician, church organist, math and science tutor, emergency room technician, and internal medicine intern.
 

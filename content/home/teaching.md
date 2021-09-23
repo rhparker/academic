@@ -27,7 +27,8 @@ subtitle = ""
 
 ### Southern Methodist University
 
-* **Math 3311** : Introduction to proof and analysis, Fall 2021
+* **Math 3302** : Calculus III: Multi–Variable and Vector Calculus, Spring 2022
+* **Math 3311** : Introduction to proof and analysis, Fall 2021 ([syllabus](files/Math3311syllabusFall2021.pdf))
 * **Math 3304** : Introduction to linear algebra, Spring 2021 ([syllabus](files/Math3304syllabusSpring2021.pdf))
 * **Math 1337** : Calculus I, Fall 2020 ([syllabus](files/Math1337syllabusFall2020.pdf))
 
@@ -35,7 +36,7 @@ subtitle = ""
 
 * **APMA 1360** : Applied dynamical systems, Spring 2020 ([syllabus](files/APMA1360syllabus.pdf))
 * **Intensive review of analysis for incoming graduate students**, Summer 2019
-* **[APMA 1650](http://apma1650.rprkr.net) : Statistical inference I**, Summer 2016 ([syllabus](files/APMA1650syllabus.pdf))
+* **[APMA 1650](http://apma1650.rprkr.net) : Statistical inference I**, Summer 2016 ([syllabus](files/APMA1650syllabus.pdf)) ([course notes](https://apma1650.rprkr.net/course/notes.pdf))
 
 <!-- ### Teaching assistant
 
