@@ -1,5 +1,5 @@
 ---
-title: "Bifurcations of a neural network model with symmetry"
+title: "Spatiotemporal dynamics in a twisted, circular waveguide array"
 date: 2022-01-27
 publishDate: 2022-01-27
 authors: ["Ross Parker", "Yannan Shen", "Alejandro Aceves", "John Zweck"]
