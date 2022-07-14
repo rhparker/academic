@@ -45,23 +45,19 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rhparker
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+highlight_name: true
 ---
 
 I am an RTG postdoctoral fellow and visiting assistant professor in the [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at Southern Methodist University. I received my Ph.D. in applied mathematics from [Brown University](http://www.brown.edu/academics/applied-mathematics/), where I worked with [Bj&ouml;rn Sandstede](http://bjornsandstede.com/) on the stability of nonlinear waves. In particular, I studied the existence and stability of multi-pulse solutions in continuous and discrete Hamiltonian systems. I also collaborate with [Alejandro Aceves](https://people.smu.edu/31106378/prof-alejandro-aceves/), [Todd Kapitula](http://www.calvin.edu/~tmk5/) and [Panos Kevrekidis](http://people.math.umass.edu/~kevrekid/).  
