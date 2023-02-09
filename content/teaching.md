@@ -15,7 +15,7 @@ design:
 
 ### Southern Methodist University
 
-* **Math 3302** : Calculus III: Multi–Variable and Vector Calculus, Spring 2022 ([syllabus](files/Math3302syllabusSpring2022.pdf))
+* **Math 3302** : Calculus III: Multi–Variable and vector calculus, Spring 2022 ([syllabus](files/Math3302syllabusSpring2022.pdf))
 * **Math 3311** : Introduction to proof and analysis, Fall 2021 ([syllabus](files/Math3311syllabusFall2021.pdf))
 * **Math 3304** : Introduction to linear algebra, Spring 2021 ([syllabus](files/Math3304syllabusSpring2021.pdf))
 * **Math 1337** : Calculus I, Fall 2020 ([syllabus](files/Math1337syllabusFall2020.pdf))

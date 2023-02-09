@@ -60,8 +60,8 @@ email: ''
 highlight_name: true
 ---
 
-I am an RTG postdoctoral fellow and visiting assistant professor in the [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at Southern Methodist University. I received my Ph.D. in applied mathematics from [Brown University](http://www.brown.edu/academics/applied-mathematics/), where I worked with [Bj&ouml;rn Sandstede](http://bjornsandstede.com/) on the stability of nonlinear waves. In particular, I studied the existence and stability of multi-pulse solutions in continuous and discrete Hamiltonian systems. I also collaborate with [Alejandro Aceves](https://people.smu.edu/31106378/prof-alejandro-aceves/), [Todd Kapitula](http://www.calvin.edu/~tmk5/) and [Panos Kevrekidis](http://people.math.umass.edu/~kevrekid/).  
+I am an RTG postdoctoral fellow and visiting assistant professor in the [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at Southern Methodist University. I received my Ph.D. in applied mathematics from [Brown University](http://www.brown.edu/academics/applied-mathematics/), where I worked with [Bj&ouml;rn Sandstede](http://bjornsandstede.com/) on the stability of nonlinear waves. In particular, I studied the existence and stability of multi-pulse solutions in continuous and discrete Hamiltonian systems.
 
 Although I have been fascinated by mathematics as long as I can remember, it took me until my mid 30s to embrace my inner math nerd. Beforehand, I worked many different jobs, including bicycle repairperson, computer network technician, church organist, math and science tutor, and EMT.
 
-In my spare time, I enjoy [Scottish country dancing](http://www.rscds.org/), [Sacred Harp singing](https://fasola.org/), playing piano and violin, origami, and ultralight backpacking.
+In my spare time, I enjoy [Scottish country dancing](http://www.rscds.org/), [Sacred Harp singing](https://fasola.org/), playing piano and violin, and ultralight backpacking.

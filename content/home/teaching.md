@@ -23,11 +23,15 @@ subtitle = ""
   css_class = ""
 +++
 
+### Sarah Lawrence College
+
+* **Math 3010** : Calculus II: Further study of motion and change, Spring 2023 ([syllabus](files/Math3010syllabusSpring2023.pdf))
+
 ### Southern Methodist University
 
-* **Math 3304** : Introduction to linear algebra, Fall 2022
-* **Math 1338** : Calculus II, Fall 2022
-* **Math 3302** : Calculus III: Multi–Variable and Vector Calculus, Spring 2022 ([syllabus](files/Math3302syllabusSpring2022.pdf))
+* **Math 3304** : Introduction to linear algebra, Fall 2022 ([syllabus](files/Math3304syllabusFall2022.pdf))
+* **Math 1338** : Calculus II, Fall 2022 ([syllabus](files/Math1338syllabusFall2022.pdf))
+* **Math 3302** : Calculus III: Multi–Variable and vector calculus, Spring 2022 ([syllabus](files/Math3302syllabusSpring2022.pdf))
 * **Math 3311** : Introduction to proof and analysis, Fall 2021 ([syllabus](files/Math3311syllabusFall2021.pdf))
 * **Math 3304** : Introduction to linear algebra, Spring 2021 ([syllabus](files/Math3304syllabusSpring2021.pdf))
 * **Math 1337** : Calculus I, Fall 2020 ([syllabus](files/Math1337syllabusFall2020.pdf))
